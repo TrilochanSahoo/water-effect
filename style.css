@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 100vh;
+    width: auto;
+    background-image: url(vaishnav-munda-5lRRpJ4X0HM-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
